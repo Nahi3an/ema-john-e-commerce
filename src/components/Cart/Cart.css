@@ -1,0 +1,15 @@
+.grand-total {
+    color: #B12704;
+}
+
+.order-btn {
+    width: 230px;
+    background: #F0C14B;
+    border: 1px solid;
+    border-radius: 6px;
+    padding: 5px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 45px;
+    cursor: pointer;
+}
